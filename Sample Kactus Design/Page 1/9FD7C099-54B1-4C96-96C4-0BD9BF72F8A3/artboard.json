@@ -26,7 +26,7 @@
     "y": 244
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,7 +46,7 @@
       "id": "3E62FC62-4BA7-4804-9DAB-54C656C41E8E"
     }
   ],
-  "name": "t",
+  "name": "Fixed Artboard Name",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
